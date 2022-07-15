@@ -82,22 +82,13 @@ For segmentation, APP is only used during training. This increases the training 
 # Citation
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2207.06489,
-  doi = {10.48550/ARXIV.2207.06489},
-  
-  url = {https://arxiv.org/abs/2207.06489},
-  
-  author = {Singh, Pranav and Cirrone, Jacopo},
-  
-  keywords = {Image and Video Processing (eess.IV), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images},
-  
-  publisher = {arXiv},
-  
-  year = {2022},
-  
-  copyright = {Creative Commons Attribution 4.0 International}
-} 
+@misc{singh2022dataefficient,
+    title={A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images},
+    author={Pranav Singh and Jacopo Cirrone},
+    year={2022},
+    eprint={2207.06489},
+    archivePrefix={arXiv},
+    primaryClass={eess.IV}
+}
 ```
 
