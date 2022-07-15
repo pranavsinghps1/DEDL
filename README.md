@@ -44,6 +44,7 @@ NOTE: segmentation_models.pytorch installs an older version timm package for its
 
 We assume that the practitioner has a working installation (latest recommended) of Pytorch, Numpy, matplotlib and pandas.
 
+<<<<<<< Updated upstream
 ## Result Reproduction
 
 All the jupyter notebooks contain sequence code for training and testing the trained models.  
@@ -125,6 +126,8 @@ In the following two tables, we compare the IoU score on the test set, averaged 
 
 For segmentation, APP is only used during training. This increases the training time marginally  (more details in supplementary material section 1.2). But the size of saved model weights and inference time remains constant. 
 
+=======
+>>>>>>> Stashed changes
 # Explore the files
 
 
@@ -141,6 +144,16 @@ For segmentation, APP is only used during training. This increases the training 
 - DEDL/ Segmentation with APP/Semantic Segmentation.ipynb contains the segmentation architecture with the post-processing autoencoder architecture (APP). This notebook also contains the testing code at the bottom. Similarly, segmentation architecture can be changed as mentioned in the above step.
 
 - DEDL/Classification/Supervised.ipynb contains the code for supervised classification of the given dataset. This algorithm has been tested for CNNs and Transformers supported by timm. To test the saved models, use the code provdied in DEDL/Classification/Testing.ipynb 
+
+## Results & Reproduction
+
+See [RESULTS.md](RESULTS.md) for more details.
+
+# Time Complexity Comparison with and without APP
+
+For segmentation, APP is only used during training. This increases the training time marginally  (more details in supplementary material section 1.2). But the size of saved model weights and inference time remains constant.
+
+
 
 # References
 
