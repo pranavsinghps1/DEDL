@@ -2,6 +2,8 @@
 
 Official PyTorch implementation of the following paper: [ A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images](https://arxiv.org/abs/2207.06489). arXiv 2022.
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-data-efficient-deep-learning-framework-for/medical-image-segmentation-on-autoimmune)](https://paperswithcode.com/sota/medical-image-segmentation-on-autoimmune?p=a-data-efficient-deep-learning-framework-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-data-efficient-deep-learning-framework-for/classification-on-autoimmune-dataset)](https://paperswithcode.com/sota/classification-on-autoimmune-dataset?p=a-data-efficient-deep-learning-framework-for)
 
 # Description of the mathematical models
 
