@@ -114,7 +114,7 @@ In the following two tables, we compare the IoU score on the test set, averaged 
 |ConvNext-small       |0.84795±0.00246|
 |ConvNext-base        |0.80675±0.002|
 |Swin Transformer large (Patch 4 Window 12)   |0.8839±0.001|
-|Swin Transformer Base (Patch 4 Window 12)     |0.891±0.0007|
+|Swin Transformer Base (Patch 4 Window 12)     |**0.891±0.0007**|
 |Vit-Base/16    |0.8426±0.007|
 |Vit-Base/32      |0.8507±0.0079|
 |Vit-large/16        |0.80495±0.0077|
@@ -150,7 +150,8 @@ For segmentation, APP is only used during training. This increases the training 
 
 # Citation
 
-`@misc{https://doi.org/10.48550/arxiv.2207.06489,
+```
+@misc{https://doi.org/10.48550/arxiv.2207.06489,
   doi = {10.48550/ARXIV.2207.06489},
   
   url = {https://arxiv.org/abs/2207.06489},
@@ -166,6 +167,6 @@ For segmentation, APP is only used during training. This increases the training 
   year = {2022},
   
   copyright = {Creative Commons Attribution 4.0 International}
-}
-`
+} 
+```
 
