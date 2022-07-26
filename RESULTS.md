@@ -66,6 +66,7 @@ In the following two tables, we compare the IoU score on the test set, averaged 
 |ConvNext-tiny       |0.81355±0.0032|
 |ConvNext-small       |0.84795±0.00246|
 |ConvNext-base        |0.80675±0.002|
+|CoAtNet        |0.81225±0.00033|
 |Swin Transformer large (Patch 4 Window 12)   |0.8839±0.001|
 |Swin Transformer Base (Patch 4 Window 12)     |0.891±0.0007|
 |Vit-Base/16    |0.8426±0.007|
