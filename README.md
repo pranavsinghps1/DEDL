@@ -11,6 +11,13 @@ Official PyTorch implementation of the following paper: [ A Data-Efficient Deep 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-data-efficient-deep-learning-framework-for/classification-on-autoimmune-dataset)](https://paperswithcode.com/sota/classification-on-autoimmune-dataset?p=a-data-efficient-deep-learning-framework-for)
 
+## Updates
+### July 26, 2022 
+* Added example and support for [ CoAtNet](https://arxiv.org/abs/2106.04803). This is a hybrid architecture with the abilities of CNN and Transformers, developed to overcome the shortcomings of transformers in low data regimes. Results have been updated in [RESULTS.md](RESULTS.md)
+
+### July 13, 2022 
+* Initial Code release for DEDL
+
   
 
 # Description of the mathematical models
@@ -88,12 +95,7 @@ NOTE: segmentation_models.pytorch installs an older version timm package for its
 We assume that the practitioner has a working installation (latest recommended) of Pytorch, Numpy, matplotlib and pandas.
 
 
-## Updates
-### July 26, 2022 
-* Added example and support for [ CoAtNet](https://arxiv.org/abs/2106.04803). This is a hybrid architecture with the abilities of CNN and Transformers, developed to overcome the shortcomings of transformers in low data regimes. Results have been updated in [RESULTS.md](RESULTS.md)
 
-### July 13, 2022 
-* Initial Code release for DEDL
 
 # Explore the files
 
