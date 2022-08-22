@@ -5,6 +5,8 @@
 
 Official PyTorch implementation of the following paper: [ A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images](https://arxiv.org/abs/2207.06489). arXiv 2022.
 
+**Accepted at ECCV-2022: Medical Computer Vision Workshop (ECCV-MCV)**
+
   
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-data-efficient-deep-learning-framework-for/medical-image-segmentation-on-autoimmune)](https://paperswithcode.com/sota/medical-image-segmentation-on-autoimmune?p=a-data-efficient-deep-learning-framework-for)
@@ -12,6 +14,9 @@ Official PyTorch implementation of the following paper: [ A Data-Efficient Deep 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-data-efficient-deep-learning-framework-for/classification-on-autoimmune-dataset)](https://paperswithcode.com/sota/classification-on-autoimmune-dataset?p=a-data-efficient-deep-learning-framework-for)
 
 ## Updates
+
+### August 16, 2022 
+* Accpeted at [ECCV-MCV 2022](https://mcv-workshop.github.io/)
 ### July 26, 2022 
 * Added example and support for [ CoAtNet](https://arxiv.org/abs/2106.04803). This is a hybrid architecture with the abilities of CNN and Transformers, developed to overcome the shortcomings of transformers in low data regimes. Results have been updated in [RESULTS.md](RESULTS.md)
 
