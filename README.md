@@ -107,7 +107,7 @@ We assume that the practitioner has a working installation (latest recommended) 
   
   
 
-- DEDL/ Segmentation with APP/Semantic Segmentation with APP.ipynb contains the training code for Training segmentation architecture with Autoencoder post-processing.
+- DEDL/ Segmentation with APP/Segmentation with APP.ipynb contains the training code for Training segmentation architecture with Autoencoder post-processing.
 
   
 
@@ -127,7 +127,7 @@ Note: we have only tested on Unet an Unet++ architectures.
 
   
 
-- DEDL/ Segmentation with APP/Semantic Segmentation.ipynb contains the segmentation architecture with the post-processing autoencoder architecture (APP). This notebook also contains the testing code at the bottom. Similarly, segmentation architecture can be changed as mentioned in the above step.
+- DEDL/ Segmentation with APP/Segmentation.ipynb contains the segmentation architecture without the post-processing autoencoder architecture (APP). This notebook also contains the testing code at the bottom. Similarly, segmentation architecture can be changed as mentioned in the above step.
 
   
 
