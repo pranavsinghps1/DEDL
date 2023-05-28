@@ -169,20 +169,13 @@ For segmentation, APP is only used during training. This increases the training 
 
 ```
 
-@misc{singh2022dataefficient,
-
-title={A Data-Efficient Deep Learning Framework for Segmentation and Classification of Histopathology Images},
-
-author={Pranav Singh and Jacopo Cirrone},
-
-year={2022},
-
-eprint={2207.06489},
-
-archivePrefix={arXiv},
-
-primaryClass={eess.IV}
-
+@inproceedings{singh2023data,
+  title={A data-efficient deep learning framework for segmentation and classification of histopathology images},
+  author={Singh, Pranav and Cirrone, Jacopo},
+  booktitle={Computer Vision--ECCV 2022 Workshops: Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part III},
+  pages={385--405},
+  year={2023},
+  organization={Springer}
 }
 
 ```
